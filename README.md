@@ -13,4 +13,6 @@ Purpose
 * The June middle temperatures for each quartile are all higher than in December. Confirming that it is generally colder in December.
 
 ## Summary
-High-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
+<p>Overall, as expected the temperatures in December are a bit cooler than they are in June. However, It is still on average in the low-70's for temps. Running additional queries to find the median temp (Jun 75, Dec 71) shows that those values are essentially the same as the average temp (Jun 74.9, Dec 71) for each month.</p>
+
+
